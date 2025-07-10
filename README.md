@@ -13,3 +13,8 @@ Proje görünüm video linki yandadır; https://youtube.com/shorts/gaVyAOST1e0
 
 
 ![Labiren_Tetikleyici](https://github.com/user-attachments/assets/5628f46e-d8f4-4f6b-b3a6-144ce5b778b3)
+
+
+
+
+![unity proje görünümü](https://github.com/user-attachments/assets/dff38efc-c055-465b-9ebc-cdf996c0c576)
