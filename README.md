@@ -16,5 +16,5 @@ Proje görünüm video linki yandadır; https://youtube.com/shorts/gaVyAOST1e0
 
 
 
+<img width="940" height="513" alt="resim" src="https://github.com/user-attachments/assets/b9328b79-5d53-44a0-8cdb-e7a7da069505" />
 
-![unity proje görünümü](https://github.com/user-attachments/assets/dff38efc-c055-465b-9ebc-cdf996c0c576)
