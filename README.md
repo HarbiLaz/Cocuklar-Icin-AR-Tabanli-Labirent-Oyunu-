@@ -1,6 +1,6 @@
 # Cocuklar-Icin-AR-Tabanli-Labirent Projesi
 Unity  ile geliştirilen artırılmış gerçeklik tabanlı labirent projesi.
-Telefondan apk dosyası acıldıktan sonra,telefon kamerası çalışmaya başlar projenin görüntülenmesi için alttaki teteikleyici fotoğrafını indirip kameraya göstermeniz gerekmektedir.
+Telefondan apk dosyası acıldıktan sonra,telefon kamerası çalışmaya başlar, projenin görüntülenmesi için alttaki teteikleyici fotoğrafını indirip kameraya göstermeniz gerekmektedir.
 
 
 
